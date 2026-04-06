@@ -1,5 +1,4 @@
 function add(a, b) {
-  console.long("Adding:", a, b);
   return a + b;
 }
 function subtract(a, b) {
